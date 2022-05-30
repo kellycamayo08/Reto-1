@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3a36b213.css","mappings":"AAAA,KAEI,kBAAmB,CADnB,gCAAkC,CAElC,QACJ","sources":["styles/style.css"],"sourcesContent":["body{\r\n    font-family: Helvetica, sans-serif;\r\n    background: #F0EFE9;\r\n    margin: 0;\r\n}\r\n"],"names":[],"sourceRoot":""}

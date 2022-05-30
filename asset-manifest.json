@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Reto-1/static/css/main.3a36b213.css",
+    "main.js": "/Reto-1/static/js/main.e4b35d38.js",
+    "static/media/img4.png": "/Reto-1/static/media/img4.cea95fd93a23feedde54.png",
+    "static/media/img3.png": "/Reto-1/static/media/img3.39adbe9932893d5b9e9f.png",
+    "static/media/img6.png": "/Reto-1/static/media/img6.c058c1339d7ee3e19ae8.png",
+    "static/media/img1.png": "/Reto-1/static/media/img1.6e71636c5fcf7d63d730.png",
+    "static/media/img2.png": "/Reto-1/static/media/img2.77fb08bb7bacae7a8e86.png",
+    "static/media/img5.png": "/Reto-1/static/media/img5.5f7954d0f9f0df19e5ff.png",
+    "static/media/logo_workctrl.svg": "/Reto-1/static/media/logo_workctrl.ca13afba6e0df9f0a30f039acb6ee4f9.svg",
+    "static/media/logo_jobona.svg": "/Reto-1/static/media/logo_jobona.577a63cde9e6db11d0dc60c1704ac0cb.svg",
+    "static/media/logo_perman.svg": "/Reto-1/static/media/logo_perman.615e7a6a521482e95d19bb3f1d0f6a73.svg",
+    "static/media/JOBQO.svg": "/Reto-1/static/media/JOBQO.609919e2c47d45b20ed742303af37a43.svg",
+    "static/media/HAREE.svg": "/Reto-1/static/media/HAREE.1bf68fee08c8b74145d140d916ae397c.svg",
+    "static/media/fondo.svg": "/Reto-1/static/media/fondo.8608432e523824292c3e380e02b07727.svg",
+    "static/media/location.svg": "/Reto-1/static/media/location.e02fc09416e7f5b601053e023c7411f7.svg",
+    "index.html": "/Reto-1/index.html",
+    "static/media/portafolio.svg": "/Reto-1/static/media/portafolio.0ba2202b13048a8d0ff38d20ecc21115.svg",
+    "main.3a36b213.css.map": "/Reto-1/static/css/main.3a36b213.css.map",
+    "main.e4b35d38.js.map": "/Reto-1/static/js/main.e4b35d38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a36b213.css",
+    "static/js/main.e4b35d38.js"
+  ]
+}
