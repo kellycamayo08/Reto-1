@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #
-(Link despliegue)[https://kellycamayo08.github.io/Reto-1/]
+[Link despliegue](https://kellycamayo08.github.io/Reto-1/)
 
 ## Available Scripts
 
